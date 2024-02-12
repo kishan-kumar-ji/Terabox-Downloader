@@ -42,7 +42,7 @@
     </div>
           <br><br />
     <div class="container mt-8">
-        <form action="/file.asp" method="get">
+        <form action="/download.php" method="get">
             <fieldset class="border p-6 rounded-md shadow-md">
                 <legend class="text-lg font-semibold mb-4">File Details</legend>
                 <div class="mb-6">
